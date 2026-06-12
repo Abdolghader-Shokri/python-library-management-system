@@ -76,7 +76,7 @@ This project uses only the Python standard library and does not require external
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/library-management-system.git
+git clone https://github.com/Abdolghader-Shokri/python-library-management-system.git
 ```
 
 2. Navigate to the project directory
