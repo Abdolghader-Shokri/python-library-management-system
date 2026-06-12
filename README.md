@@ -82,7 +82,7 @@ git clone https://github.com/Abdolghader-Shokri/python-library-management-system
 2. Navigate to the project directory
 
 ```
-cd library-management-system
+cd python-library-management-system
 ```
 
 3. Run the program
